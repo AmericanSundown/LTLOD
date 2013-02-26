@@ -152,12 +152,12 @@ Suintegruokime lietuviškus atvirus duomenis kaip Linked Open Data!
 
 Top-down 'atverti duomenis' procesas
 ------------------------------
-# 2008?? Susisiekimo m-ja... + IVPK
-# 2012 [LRV protokolai]
-# Ūkmin iniciatyva...
-## 2013.xx. galimybių studija, 
-## [ekonominis pagrindimas]
-# ...
+1. 2008?? Susisiekimo m-ja... + IVPK
+2. 2012 [LRV protokolai]
+3. Ūkmin iniciatyva...
+3.1. 2013.xx. galimybių studija, 
+3.2. [ekonominis pagrindimas]
+4. ...
 
 Bottom-up open-source procesas
 ------------------------------
