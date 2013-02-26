@@ -150,6 +150,15 @@ Suintegruokime lietuviškus atvirus duomenis kaip Linked Open Data!
 * ["Žaliaviniai" duomenys](datasets)
 * [Pavyzdžiai (Turtle)](datasets/LTLOD%20examples.ttl)
 
+Top-down 'atverti duomenis' procesas
+------------------------------
+# 2008?? Susisiekimo m-ja... + IVPK
+# 2012 [LRV protokolai]
+# Ūkmin iniciatyva...
+## 2013.xx. galimybių studija, 
+## [ekonominis pagrindimas]
+# ...
+
 Bottom-up open-source procesas
 ------------------------------
 
